@@ -1,0 +1,65 @@
+[
+  {
+    "id": 0,
+    "name": "air",
+    "break": true,
+    "symbols": "⬛"
+  },
+  {
+    "id": 1,
+    "name": "dirt",
+    "break": true,
+    "symbols": "🟫"
+  },
+  {
+    "id": 2,
+    "name": "stone",
+    "break": false,
+    "symbols": "🧱"
+  },
+  {
+    "id": 3,
+    "name": "lapis",
+    "break": true,
+    "symbols": "🟦",
+    "coin": 2
+  },
+  {
+    "id": 4,
+    "name": "emerald",
+    "break": true,
+    "symbols": "💶",
+    "coin": 4
+  },
+  {
+    "id": 5,
+    "name": "ladder",
+    "break": true,
+    "symbols": "🪜 "
+  },
+  {
+    "id": 6,
+    "name": "grass",
+    "break": true,
+    "symbols": "🟩"
+  },
+  {
+    "id": 7,
+    "name": "finish",
+    "break": true,
+    "symbols": "🏁"
+  },
+  {
+    "id": 8,
+    "name": "fuel",
+    "break": true,
+    "symbols": "🔋",
+    "fuel": 50
+  },
+  {
+    "id": 9,
+    "name": "bom",
+    "break": true,
+    "symbols": "💣"
+  }
+]
