@@ -1,6 +1,6 @@
 # Take $ Ground
 
-TakesGround is weird game what i made. in this game you just dig down until end.
+TakesGround is cli game with emojis. in this game you just dig down until end.
 
 take 🔋 for energy or 💣 for bom. just get it.
 
@@ -14,7 +14,7 @@ take 🔋 for energy or 💣 for bom. just get it.
 npm i
 node .
 ```
-To play I VERY recomended you to run it in vsCode. if not, game look weird and hard to see.
+To play I VERY recomended you to run it in vsCode, or any terminal that support emojis. if not, game look weird and hard to see.
 
 # Last Word
 
